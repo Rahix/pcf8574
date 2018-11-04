@@ -4,4 +4,4 @@ name = "pcf8574"
 version = "0.1.0"
 
 [dependencies]
-embedded-hal = "0.1.2"
+embedded-hal = "0.2.1"
